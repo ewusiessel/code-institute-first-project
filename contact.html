@@ -7,23 +7,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- For Font-Aswesome Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.9.0/css/all.css"
+        integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
 
     <!-- Latest compiled and minified Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
     </script>
 
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Satisfy|Questrial|Roboto" rel="stylesheet">
+    <!-- Link to CSS file -->
+    <link rel="stylesheet" href="assets/style.css">
 
     <title>Miles Stone Project</title>
 
 </head>
 
 
-<body>
+<body id="my-portfolio" data-spy="scroll" data-target=".navbar" data-offset="60">
+
+    <!-- Navigation Bar Begins  -->
+    <nav class="navbar navbar-light navbar-expand-md bg-white" id="my-navbar">
+        <!-- 'navbar-expand-md' will expand the toggle to display navigational links in the navbar -->
+
+        <!-- Navbar Brand Logo -->
+        <a href="#home" class="navbar-brand"><img src="/img/logo28.2.svg" style="height: 50px;"></a>
+
+        <!-- Toggler button to replace the navbar when the navbar is collapsed -->
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-content"
+            aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse" id="navbar-content">
+            <!-- "ml-auto" right aligns the links -->
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a href="#gallery" class="nav-link">Gallery</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#aboutme" class="nav-link">About Me</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!-- Navigation Bar Ends -->
 
 
     <!-- Begining of Footer with social-media icons -->
