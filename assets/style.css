@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Roboto+Slab:100,200,300,400,500,600,700|Pacifico:100,200,300,400,500,600,700 ');
 
+a {
+    font-family: "Quicksand",
+        sans-serif;
+    color: #7b6e5e;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin: 20px;
+}
+
+
 /* Begining of video background   */
 .background-wrap {
     position: fixed;
@@ -23,7 +33,10 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+/* End of video background   */
 
+
+/* Video background text */
 h1 {
     font-family: "Pacifico", sans-serif;
     font-weight: 100;
@@ -40,10 +53,10 @@ p {
     color: #fff;
     text-transform: uppercase;
 }
+/* Video background text ends */
 
 
-/* ENTER BUTTON */
-
+/* Enter Button */
 .center-under {
 
     top: 50%;
@@ -53,6 +66,7 @@ p {
     display: table;
     margin: 0 auto;
 }
+/* Enter Button ends */
 
 
 .btn {
@@ -82,48 +96,14 @@ p {
     width: 100%;
     height: 100%;
     border: 2px solid #fff;
-
-
 }
-
-
-
-
-
-
-
 /* End of video background   */
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a {
-    font-family: "Quicksand",
-        sans-serif;
-    color: #7b6e5e;
-    text-transform: uppercase;
-    font-weight: 500;
-    margin: 20px;
-}
-
-
 /* Social-media icons for footer */
-div,
-social-icons {
-    margin: 0px;
+#social-icons {
+    margin: auto;
 }
 
 li {
@@ -134,23 +114,14 @@ li {
 
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
 .list-inline-icons li a i {
     font-size: 32px;
     color: #7b6e5e;
 
-}
-
-.list-inline-icons {
-    padding: 0;
-    margin: 0;
-}
-
-.col {
-    padding: 10px;
-}
-
-.social-icons {
-    margin: 0;
 }
 
 /* Social media icons for video background page */
@@ -158,3 +129,18 @@ li {
     font-size: 32px;
     color: #fff;
 }
+/* Social media icons for video background page ends */
+
+
+/* End of social-media icons for footer */
+
+
+
+
+
+
+
+
+
+   
+
