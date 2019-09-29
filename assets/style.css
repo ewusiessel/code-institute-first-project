@@ -1,4 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Roboto+Slab:100,200,300,400,500,600,700|Pacifico:100,200,300,400,500,600,700 ');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Roboto+Slab:100,200,300,400,500,600,700|Pacifico:100,200,300,400,500,600,700');
+
+body {
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+}
+
 
 a {
     font-family: "Quicksand",
@@ -78,7 +84,7 @@ p {
     letter-spacing: 5px;
     color: #fafafa;
     text-transform: uppercase;
-    padding: 10px 25px;
+    padding: 10px 45px;
     cursor: pointer;
     transition-delay: 0.5s linear;
     border-radius: 0;
@@ -87,16 +93,16 @@ p {
 .btn:hover {
     color: #1f1f1fc8;
     background: #fff;
-    border-radius: 0;  
+    border-radius: 0;    
 }
 
 .btn::before {
-    content: "";
     position: absolute;
     left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
+    top: 0; 
+}
+
+div.btn {
     border: 2px solid #fff;
 }
 /* Enter Button ends */
@@ -111,7 +117,7 @@ p {
 
 li {
     list-style: none;
-    margin: 0px 6px;
+    margin: 0px 0px;
     display: inline-block;
     padding: 0;
 
@@ -135,6 +141,11 @@ ul {
 }
 /* Social media icons for video background page ends */
 
+@media screen and (max-width:400px) {
+    .list-inline-icons-white li a i {
+        font-size: 25px;      
+}
+}
 
 /* End of social-media icons for footer */
 
