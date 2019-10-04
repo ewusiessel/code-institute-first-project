@@ -113,6 +113,7 @@ div.btn {
 /* Social-media icons for footer */
 #social-icons {
     margin: auto;
+    
 }
 
 li {
@@ -138,6 +139,7 @@ ul {
 .list-inline-icons-white li a i {
     font-size: 32px;
     color: #fff;
+    
 }
 /* Social media icons for video background page ends */
 
@@ -145,6 +147,10 @@ ul {
     .list-inline-icons-white li a i {
         font-size: 25px;      
 }
+}
+
+.fixed-bottom {
+    margin-bottom: 3%;
 }
 
 /* End of social-media icons for footer */
