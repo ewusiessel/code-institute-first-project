@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Roboto+Slab:100,200,300,400,500,600,700|Pacifico:100,200,300,400,500,600,700');
 
-body {
+#my-portfolio {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;
+    margin: 50px;
 }
 
 a {
@@ -171,7 +172,6 @@ ul {
     flex: 25%;
     max-width: 50%;
     padding: 0 4px;
-    margin-top: 50px;
 }
 
 .column img {
