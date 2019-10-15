@@ -3,6 +3,7 @@
 body {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;
+    
 }
 
 
@@ -108,8 +109,6 @@ div.btn {
 /* Enter Button ends */
 
 
-
-
 /* Social-media icons for footer */
 #social-icons {
     margin: auto;
@@ -155,10 +154,9 @@ ul {
 
 /* End of social-media icons for footer */
 
+/* < !-- Gallery starts -->
 
-
-
-
+< !-- Gallery ends --> */
 
 
 

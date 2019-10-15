@@ -58,6 +58,49 @@
       <!-- Navigation Bar Ends -->
 
 
+<!-- Gallery starts  -->
+<div class="row">
+    <div class="column">
+        <img src="img/alvin-mahmudov-NSVJAAXOYHs-unsplash_01.jpg" alt="">
+        <img src="img/alvin-mahmudov-sYIqGW3hufI-unsplash_02.jpg" alt="">
+        <img src="img/andreas-ronningen-S2YssLw97l4-unsplash-03.jpg" alt="">
+        <img src="img/chuttersnap-2qlurUeoi3A-unsplash_04.jpg" alt="">
+        <img src="img/desiree-fawn-NKase2HvnsI-unsplash_05.jpg" alt="">
+    </div>
+    <div class="column">
+        <img src="img/ifeoluwadayo-ogunderu-iSF1Ma6GOfI-unsplash_06.jpg" alt="">
+        <img src="img/ifeoluwadayo-ogunderu-KjUBgOoNqo0-unsplash_07.jpg" alt="">
+        <img src="img/jenna-norman-4nPVmlj8ngM-unsplash_08.jpg" alt="">
+        <img src="img/marc-a-sporys-NO8Sj4dKE8k-unsplash_09.jpg" alt="">
+        <img src="img/marcus-lewis-87DgFV9SOc4-unsplash_10.jpg" alt="">
+    </div>
+    <div class="column">
+        <img src="img/marius-muresan-hcn12YN0ckM-unsplash_11.jpg" alt="">
+        <img src="img/mei-bakker-UgOSM6gye3E-unsplash_12.jpg" alt="">
+        <img src="img/nicole-honeywill-2S6xEssCbt8-unsplash_13.jpg" alt="">
+        <img src="img/pablo-heimplatz-fVL0zZdk-R4-unsplash_14.jpg" alt="">
+        <img src="img/petr-ovralov-jNpttMRlb_Y-unsplash_15.jpg" alt="">
+    </div>
+    <div class="column">
+        <img src="img/samantha-gades-7JUDLPlA114-unsplash_16.jpg" alt="">
+        <img src="img/samantha-gades-CsrwM-bHQIg-unsplash_17.jpg" alt="">
+        <img src="img/shelbey-miller-10cxLuistys-unsplash_18.jpg" alt="">
+        <img src="img/sweet-ice-cream-photography-BJAKGX0-9_s-unsplash_19.jpg" alt="">
+        <img src="img/thomas-ae-295NLwGdrKM-unsplash_20.jpg" alt="">
+    </div>
+    <div class="column">
+        <img src="img/tiko-giorgadze-i5SbksX33RM-unsplash_21.jpg" alt="">
+        <img src="img/todd-ruth-tebYv7a8wMI-unsplash_22.jpg" alt="">
+        <img src="img/valerie-elash-bI8Yv7AH6b0-unsplash_23.jpg" alt="">
+        <img src="img/wu-jianxiong-4TET084JWaA-unsplash_24.jpg" alt="">
+        <img src="img/zelle-duda-Zd6ZHK_Gh7s-unsplash_25.jpg" alt="">
+    </div>
+</div>
+
+<!-- Gallery ends  -->
+
+
+
     <!-- Begining of Footer with social-media icons -->
     <footer class="container text-center">
         <div id="row social-icons">
@@ -90,6 +133,39 @@
         </div>
     </footer>
     <!-- End of Footer with social-media icons -->
+
+    <script>
+        var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("dot");
+            if (n > slides.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+    </script>
 
 
 
