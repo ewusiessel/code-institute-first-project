@@ -3,7 +3,7 @@
 body {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;
-    margin: 30px;
+    margin: 40px;
     
 }
 
@@ -158,6 +158,10 @@ ul {
 
 
 /* Gallery styling starts  */
+
+#gallery {
+    margin-top: 75px;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -167,8 +171,9 @@ ul {
 /* Create four equal columns that sits next to each other */
 .column {
     flex: 25%;
-    max-width: 25%;
+    max-width: 50%;
     padding: 0 4px;
+    margin-top: 50px;
 }
 
 .column img {
@@ -193,7 +198,6 @@ ul {
     }
 }
 /* Gallery styling ends */
-
 
 
 
