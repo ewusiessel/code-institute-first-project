@@ -3,7 +3,8 @@
 #my-portfolio {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;
-    margin: 50px;
+    
+    
 }
 
 a {
@@ -198,12 +199,11 @@ ul {
 /* Gallery styling ends */
 
 
+/* Positioning Form */
+.col-md-6 {
+    width: 100%;
+    margin: 0 auto;
+}
 
-    .center-button {
-        
-    }
-
-
-
-   
+/* Positioning Form */
 
