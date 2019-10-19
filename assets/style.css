@@ -14,6 +14,11 @@ a {
     margin: 20px;
 }
 
+.navbar {
+    border-bottom:rgb(241, 241, 241) solid;
+    border-bottom-width: thin;
+}
+
 
 /* Begining of video background   */
 
