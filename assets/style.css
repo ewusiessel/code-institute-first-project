@@ -2,9 +2,7 @@
 
 #my-portfolio {
     font-family: "Quicksand", sans-serif;
-    font-weight: 600;
-    
-    
+    font-weight: 600;  
 }
 
 a {
@@ -62,12 +60,11 @@ h1 {
 }
 
 p {
-    font-family: "Quicksand", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 15px;
-    letter-spacing: 8px;
-    font-weight: 200;
-    color: #fff;
-    text-transform: uppercase;
+    font-weight: 100;
+    color:black;
+    
 }
 
 /* Enter Button */
@@ -199,11 +196,28 @@ ul {
 /* Gallery styling ends */
 
 
-/* Positioning Form */
+/* Form Positioning */
 .col-md-6 {
     width: 100%;
     margin: 0 auto;
 }
 
-/* Positioning Form */
+/* Form Positioning  */
 
+/* About me Page */
+
+#aboutme {
+    margin-top: 120px;
+}
+
+h2 {
+    color: #7b6e5e
+    
+}
+
+.media-players {
+    max-width: 700px;
+    margin: 0 auto;
+   
+
+}
