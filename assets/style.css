@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Roboto+Slab:100,200,300,400,500,600,700|Pacifico:100,200,300,400,500,600,700');
 
+
+
+
 #my-portfolio {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;  
@@ -108,6 +111,7 @@ p {
 
 div.btn {
     border: 2px solid #fff;
+    
 }
 /* Enter Button ends */
 
@@ -163,13 +167,20 @@ ul {
 
 /* Gallery styling starts  */
 
-#gallery {
-    margin-top: 75px;
+.gallery {
+    position: relative;
+    margin-top: 130px;
+    width: 100%;
+    align-content: center;
+  
 }
-.row {
+
+
+section .gallery .row {
     display: flex;
     flex-wrap: wrap;
     padding: 0 4px;
+    
 }
 
 /* Create four equal columns that sits next to each other */
@@ -180,7 +191,7 @@ ul {
 }
 
 .column img {
-    margin-top: 8px;
+    margin-top: 0px;
     vertical-align: middle;
     width: 100%;
 }
@@ -238,3 +249,17 @@ h2 {
 }
 
 /* About me Page ends */
+
+
+
+
+/* For aligning "My Interview" with screens 420px left */
+@media only screen and (max-width: 420px) {
+    .interviews {
+        margin-left: 15px;
+    }
+}
+
+#my-navbar {
+    width: 100%;
+}
