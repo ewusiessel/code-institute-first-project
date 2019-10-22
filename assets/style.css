@@ -191,7 +191,7 @@ section .gallery .row {
 }
 
 .column img {
-    margin-top: 0px;
+    margin-top: 8px;
     vertical-align: middle;
     width: 100%;
 }
@@ -220,6 +220,11 @@ section .gallery .row {
     margin: 0 auto;
 }
 
+.form {
+position: relative;
+margin-top: 150px;
+}
+
 /* Form Positioning  */
 
 /* About me Page */
@@ -230,9 +235,7 @@ section .gallery .row {
 
 h2 {
     color: #7b6e5e;
-    }
-
-    
+    }   
 
 .media-players {
     max-width: 700px;
