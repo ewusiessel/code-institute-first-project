@@ -22,6 +22,16 @@ a {
     border-bottom-width: thin;
 }
 
+.about-page,
+.contactme {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    color: #828282;
+    text-transform: none;
+    letter-spacing: 0px;
+    padding: 5px;
+}
+
 
 /* Begining of video background   */
 
@@ -45,6 +55,8 @@ a {
         height: 100%;
     }
 }
+
+
 
 /* End of video background   */
 
@@ -141,6 +153,7 @@ ul {
     font-size: 32px;
     color: #7b6e5e;
     margin-top: 30px;
+    margin-bottom: 30px;
 
 }
 
@@ -243,13 +256,7 @@ h2 {
 
 }
 
-.about-page {
-    font-family: "Roboto", sans-serif;
-    font-size: 15px;
-    color: #828282;
-    text-transform: none;
-    letter-spacing: 0px;
-}
+/* For paragraphes on pages */
 
 /* About me Page ends */
 
@@ -265,4 +272,16 @@ h2 {
 
 #my-navbar {
     width: 100%;
+}
+
+/* About Me page */
+.fill-form {
+    text-transform: lowercase;
+    color: #828282;
+    margin: 0px;
+}
+
+a.fill-form:hover {
+    color: #7a5931;
+    text-decoration: none;
 }
