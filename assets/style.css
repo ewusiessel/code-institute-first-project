@@ -6,6 +6,8 @@
 #my-portfolio {
     font-family: "Quicksand", sans-serif;
     font-weight: 600;  
+    margin: 0px;
+    padding: 0px;
 }
 
 a {
@@ -284,6 +286,7 @@ a.fill-form:hover {
 
 .space-down {
     margin-top: 40px;
+    margin-left: 22px;
     
 }
 
