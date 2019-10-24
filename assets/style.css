@@ -187,7 +187,6 @@ ul {
     margin-top: 130px;
     width: 100%;
     align-content: center;
-  
 }
 
 
@@ -195,7 +194,7 @@ ul {
 .column {
     flex: 25%;
     min-width: 20px;
-    padding: 0 4px;   
+    padding: 0 4px;  
 }
 
 .column img {
@@ -279,11 +278,10 @@ a.fill-form:hover {
     text-decoration: none;
 }
 
-.space-down {
+.my-work {
     margin-top: 40px;
-    margin-left: 22px;
-    
-}
+    margin-left: 3px;
+
 
 @media only screen and (max-width: 420px) {
      .space-down {
