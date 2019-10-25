@@ -191,13 +191,13 @@ ul {
 
 
 /* Create four equal columns that sits next to each other */
-.column {
+.col-12 {
     flex: 25%;
     min-width: 20px;
     padding: 0 4px;  
 }
 
-.column img {
+.col-12 img {
     display: block;
     margin-top: -15px;
     width: 100%;
