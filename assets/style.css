@@ -154,8 +154,8 @@ ul {
 .list-inline-icons li a i {
     font-size: 32px;
     color: #7b6e5e;
-
-    margin-bottom: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
 
 }
 
@@ -179,7 +179,6 @@ ul {
 
 /* End of social-media icons for footer */
 
-
 /* Gallery styling starts  */
 
 .gallery {
@@ -191,13 +190,13 @@ ul {
 
 
 /* Create four equal columns that sits next to each other */
-.col-12 {
+.column {
     flex: 25%;
     min-width: 20px;
     padding: 0 4px;  
 }
 
-.col-12 img {
+.column img {
     display: block;
     margin-top: -15px;
     width: 100%;
@@ -281,6 +280,7 @@ a.fill-form:hover {
 .my-work {
     margin-top: 40px;
     margin-left: 3px;
+}
 
 
 @media only screen and (max-width: 420px) {
@@ -303,9 +303,6 @@ a.fill-form:hover {
     transition: opacity 1s ease-in-out;
     -moz-transition: opacity 1s ease-in-out;
     -webkit-transition: opacity 1s ease-in-out;
-
 }
 
 /* End of Fade Hover effect to gallery */
-
-
