@@ -306,3 +306,12 @@ a.fill-form:hover {
 }
 
 /* End of Fade Hover effect to gallery */
+
+
+
+.copy-right-info{
+    text-align: center;
+    color: #828282;
+    text-transform: uppercase;
+    font-size: 12px;
+}
