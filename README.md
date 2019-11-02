@@ -1,6 +1,191 @@
 # Miles Stone Wedding Photography Website
 
-<p text-align="center">Starting Documentation on project
-</p> 
+<p>A  website created for a wedding photographer called Miles Stone. The Website features a promotional video, gallery of the photographers work, an about page and a contact page. The primary objective of the website is to showcase the photographers work and convert potential brides to seeing his work and make contact with the photographer. The website also has access to the photographers interviews which gives a preview into his background, what inspires him and his style of work.</p>
+
+<p>The atmosphere the website aims to create is that of an emotional connection between the viewer and the  photographer based on getting to know him through his works and philosphy as an artist. The viewer is ushered into the photographers world and the way he sees things from the home page featuring snippets of videos that begins the journey into discovery.</p>   
+
+
+<p>The business goals of this website are to:</p>   
+
+* Build brand awareness.
+* Feature quality examples of the photographers works.
+* Promote sales in the form of first contact (via the contact page) 
+* Minimalist and clean UX to keep potential customers less distracted on the website and easily make contact. 
+
+
+<p>The customer goals of this website are:</p> 
+
+Getting to appreciate the work of the photographer.
+Easily making contact with the photographer and striking a conversation.
+Getting to meet the  photographer who could potentially capture your wedding.
+
+
+UX
+</br>
+
+###Ideal client
+
+####The ideal visitor for the website is:
+
+* English speaking.
+* Engaged couple or bride to be.
+* Is looking for a kind of work that resonates with the photographer's style.
+* Lives anywhere in the world.
+
+####Visitors to this website are searching for:
+
+* A photographer to capture their big day and get to make contact.
+* Seek inspiration from the works of the photographer. 
+
+####The project is the best way to help them achieve these objectives because:
+
+* The UX is very clean and information is easily accessible .
+* Get a closer look at the works of the photographer 
+*  This website:
+** Leads the client through understanding the style and working philosphy behind the works of the photographer.
+** Delivers to the client the information they need in their respective pages.
+** Is easy to navigate.
+** Guiding them to the goal of making contact with the photographer.
+
+
+####Client stories
+<ol> 
+<li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
+<li>As a new visitor to the website, I want to view the photographers gallery, and view their work in detail.</li>
+<li>As a new visitor to the website, I want learn more about the photograper, so I can feel I connect with her as a person.</li>
+<li>As a visitor to the website, I want to be able to follow the photographer on social media, so I am kept informed about his projects and travels.</li>
+</ol> 
+
+
+####Wireframe mockups:
+<ul>
+<li> <a href="#">Index<a/></li>
+<li><a href="#">About<a/></li>
+<li><a href="#">Gallery<a/></li>
+<li><a href="#">Contact<a/></li>
+
+
+##Features
+<br>
+
+The pages have been designed to feature a responsive navigational bar with placing of logo at the top left, the index page being the exception to the rule with the logo in the center of its page.  The footers of every page has the copyright information and social media icons that will take a visitor to photographers' social media pages.
+
+The index page features a looped snippets of video footage presumably taken by the photographer and its purpose is to grab attention and give a emotional response to the viewer.
+
+Index
+The Index/Home page as mentioned earlier features a special video in black and white that autoplays and loops on mute. This is also the case with all viewports and devices as it aims to maintain that emotional response regardless of where it is viewed. 
+
+There is a simple <b>Next</b> button that ushers the viewer into the <b>Gallery</b> section of the website. 
+
+The Home/Index page promotional video was put together by the writer sourced from different videos (all copyrights reserved)from a free video downloadable website and edited with iMovie a video editing software.  
+
+
+Gallery
+The Gallery page has been laid out in columns of thumbnail images, 1 column wide for mobile devices, 4 columns wide for tablets and 5 columns wide for desktop. Each thumbnail features a photograph by the photographer.
+
+Note: These photographs have been downloaded from www.unsplash.com (all copyrights reserved) credit to the different owners whose names are listed on each corresponding file. Due to their high resolution the images been reduced to make them download quickly over the internet.
+
+Viewing the images in full is much preferred option as it gives a better user experience. Every thumbnail image can be clicked to open a fancybox window to view the artwork in more detail, to perform other tasks such as move to the next image,view the previous, or return to the gallery page.
+
+
+
+
+About
+The About page features a  photograph of the photograper. The about page also includes some brief history about the photographer, providing enough information to satisfy curiosity without bombarding the user with information.
+
+At the bottom of the page just above the footer are three media players further showcasing interviews with the photographer thus providing a bit more information to help the listener connect with the photographer.  
+
+
+Contact
+The Contact page features a contact form, which requests client name and email, provides a place to leave a message potentially requesting a quote or simply getting intouch with the photographer.
+
+The bottom of the form contains a Send Button
+
+Existing Features
+<ul>
+<li>Header Logo - Exists on every page and allows all users to easily recognise the business brand. Clicking the logo returns users to the Home/Index page that hosts the promotional video.</li>
+<li>Header Navigation Bar - Exists on every page and allows all users to easily navigate the website's pages and find what they are looking for easily and quickly.</li>
+<li>Footer Copyright Info - Exists on every page and protects business copyright.</li>
+<li>Footer Social Icons - Exist on every page and allows all users to access the social platforms that the artist currently uses.</li>
+<li>Promotional Video - Allows potential clients to connect with the artist, see her working in the studio and view some of her work. Creates connection and emotional response.</li>
+<li>About Page - Allows potential clients to connect with the artist with a brief summary of his life and works</li>
+<li>Gallery Page - Allows potential clinets to the website to view thumbnail images of the photographer's work. Thumbnails can be clicked to open an individual fancybox viewer.</li>
+<li>Fancybox Viewer - Allows visitors on the Gallery page to view the artist's work in more detail, to move to the next image, previous image or return to the gallery.</li>
+<li>Contact Form - Allows potential clients to ask questions, and/or obtain a qoute.</li>
+</ul>
+
+####Features to Implement in future
+GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business complies with the EU data protection law. - Javascript Needed
+Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
+contact form Send button change from Send to Processing and then when complete changes to Sent. - Javascript Needed
+FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential clients easy to find answers to their common questions. - Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
+Artists' blog - Allows new potential clients to discover the website through articles written by the artist establishing her as a thought leader. - Artist currently doesn't have time to write a blog.
+Option to choose the language of the website - As the artist's second language is Dutch, this would allow Dutch speaking visitors to the website to view it in their native language. - Budget not available for professional translation at the time.
+
+#####Technologies Used
+
+This project inculpurates HTML and CSS programming languages.
+Vscode - This developer used Vscode for their IDE while building the website.
+BootstrapCDN
+    The project uses Bootstrap4 to simplify the structure of the website and make the website responsive easily.
+    The project also uses BootstrapCDN to provide icons from FontAwesome.
+fancybox
+    The project uses Fancybox for a gallery modal popup to view gallery images.
+Google Fonts
+    The project uses Google fonts to style the website fonts.
+iMovie
+    Promotional video was edited with iMovie
+jQuery
+    The project uses jQuery to reference Javascript needed for the responsive navbar, Vimeo video and Fancybox gallery modal.
+Popper.js
+    This project used AutoPrefixer to make sure the css code is valid for all browsers.
+Photoshop cs
+The project used Photoshop to reduce the size of images downloaded from unsplash.com
+
+
+
+####Testing
+Testing information can be found in separate TESTING.md file
+
+####Deployment
+This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
+
+To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
+
+Log into GitHub.
+From the list of repositories on the screen, select AJGreaves/portrait-artist.
+From the menu items near the top of the page, select Settings.
+Scroll down to the GitHub Pages section.
+Under Source click the drop-down menu labelled None and select Master Branch
+On selecting Master Branch the page is automatically refreshed, the website is now deployed.
+Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
+At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
+
+
+#####Credits
+###Content
+<ul>
+<li>The text for the Home page and About page was created for Anna Gilhespy by Catriona Black.</li>
+<li>The text for the rest of the website was created by Anna Gilhespy and proof-read/edited by Catriona Black.</li>
+</ul>
+
+###Media
+<ul>
+<li>All the photos used in this site were obtained www.unsplash.com
+Professional photography on images about1.jpg and about3.jpg on the About page by Rudi Wells Photography and obtained from the artist - Anna Gilhespy.
+The video on this website was produced by....</li></ul>
+
+###Code
+
+CSS code for shadows and hover responsiveness of gallery images was originally taken from Material Design Box Shadows| A Pen By Samuel Thornton and then edited.
+CSS code for overlays on index.html page originally taken from FullScreen YouTube Video Background In Pure CSS
+
+###Acknowledgements
+I received inspiration for this project from my own experience of building and maintaining a WordPress website for this business in the past years.
+My mentor Simen Daehlin guided me towards attempting the special responsive header on the Home page.
+
+##Disclaimer
+The content of this Website is for educational purposes only.
+
 
 
