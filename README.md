@@ -20,7 +20,7 @@ Easily making contact with the photographer and striking a conversation.
 Getting to meet the  photographer who could potentially capture your wedding.
 
 
-UX
+<h1>UX</h1>
 </br>
 
 <h2>Ideal client</h2>
@@ -65,7 +65,7 @@ UX
 <li><a href="/assets/Contact page.png">Contact<a/></li>
 
 
-<h2>Features</h2>
+<h1>Features</h1>
 
 <br>
 
@@ -157,9 +157,10 @@ This project was developed using Vscode IDE, committed to git and pushed to GitH
 <h3>Code</h3>
 
 CSS code for shadows and hover responsiveness of gallery images was originally taken from learning tutorials on Youtube. List below:
-https://www.youtube.com/watch?v=ZgWumrrtTQ0 
-https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s 
-https://www.youtube.com/watch?v=zDpCejbl1sU&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=23&t=2s
+<ul>
+<li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
+<li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
+<li>https://www.youtube.com/watch?v=zDpCejbl1sU&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=23&t=2s</li>
 
 <h3>Acknowledgements</h3>
 I received inspiration for this project from my own experience of building and maintaining a WordPress website for this business in the past years.
