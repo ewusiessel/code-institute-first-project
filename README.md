@@ -20,7 +20,7 @@ Easily making contact with the photographer and striking a conversation.
 Getting to meet the  photographer who could potentially capture your wedding.
 
 
-<h1>UX</h1>
+<h2>UX</h2>
 </br>
 
 <h2>Ideal client</h2>
