@@ -73,7 +73,7 @@ The pages have been designed to feature a responsive navigational bar with placi
 
 The index page features a looped snippets of video footage presumably taken by the photographer and its purpose is to grab attention and give a emotional response to the viewer.
 
-Index
+<h4>Index</h4>
 The Index/Home page as mentioned earlier features a special video in black and white that autoplays and loops on mute. This is also the case with all viewports and devices as it aims to maintain that emotional response regardless of where it is viewed. 
 
 There is a simple <b>Next</b> button that ushers the viewer into the <b>Gallery</b> section of the website. 
@@ -81,28 +81,26 @@ There is a simple <b>Next</b> button that ushers the viewer into the <b>Gallery<
 The Home/Index page promotional video was put together by the writer sourced from different videos (all copyrights reserved)from a free video downloadable website and edited with iMovie a video editing software.  
 
 
-Gallery
+<h4>Gallery</h4>
 The Gallery page has been laid out in columns of thumbnail images, 1 column wide for mobile devices, 4 columns wide for tablets and 5 columns wide for desktop. Each thumbnail features a photograph by the photographer.
 
-Note: These photographs have been downloaded from www.unsplash.com (all copyrights reserved) credit to the different owners whose names are listed on each corresponding file. Due to their high resolution the images been reduced to make them download quickly over the internet.
+These photographs have been downloaded from www.unsplash.com (all copyrights reserved) credit to the different owners whose names are listed on each corresponding image file. Due to their high resolution the images been reduced to make them download quickly over the internet.
 
 Viewing the images in full is much preferred option as it gives a better user experience. Every thumbnail image can be clicked to open a fancybox window to view the artwork in more detail, to perform other tasks such as move to the next image,view the previous, or return to the gallery page.
 
 
-
-
-About
+<h4>About</h4>
 The About page features a  photograph of the photograper. The about page also includes some brief history about the photographer, providing enough information to satisfy curiosity without bombarding the user with information.
 
 At the bottom of the page just above the footer are three media players further showcasing interviews with the photographer thus providing a bit more information to help the listener connect with the photographer.  
 
 
-Contact
+<h4>Contact</h4>
 The Contact page features a contact form, which requests client name and email, provides a place to leave a message potentially requesting a quote or simply getting intouch with the photographer.
 
 The bottom of the form contains a Send Button
 
-Existing Features
+<h4>Existing Features</h4>
 <ul>
 <li>Header Logo - Exists on every page and allows all users to easily recognise the business brand. Clicking the logo returns users to the Home/Index page that hosts the promotional video.</li>
 <li>Header Navigation Bar - Exists on every page and allows all users to easily navigate the website's pages and find what they are looking for easily and quickly.</li>
@@ -127,20 +125,19 @@ Option to choose the language of the website - As the artist's second language i
 
 This project inculpurates HTML and CSS programming languages.
 Vscode - This developer used Vscode for their IDE while building the website.
-BootstrapCDN
+<a href="https://www.bootstrapcdn.com/">BootstrapCDN</a>
     The project uses Bootstrap4 to simplify the structure of the website and make the website responsive easily.
     The project also uses BootstrapCDN to provide icons from FontAwesome.
-fancybox
+<a href="https://fancyapps.com/fancybox/">fancybox</a>
     The project uses Fancybox for a gallery modal popup to view gallery images.
-Google Fonts
+<a href="https://fonts.google.com/">Google Fonts</a>
     The project uses Google fonts to style the website fonts.
-iMovie
+<a href="https://apps.apple.com/gb/app/imovie/id377298193">iMovie</a>
     Promotional video was edited with iMovie
-jQuery
-    The project uses jQuery to reference Javascript needed for the responsive navbar, Vimeo video and Fancybox gallery modal.
-Popper.js
-    This project used AutoPrefixer to make sure the css code is valid for all browsers.
-Photoshop cs
+<a href="https://jquery.com/"></a>jQuery
+    The project uses jQuery to reference Javascript.
+
+<a href="https://www.adobe.com/uk/products/photoshopfamily.html">Photoshop cs</a>
 The project used Photoshop to reduce the size of images downloaded from unsplash.com
 
 
@@ -148,19 +145,8 @@ The project used Photoshop to reduce the size of images downloaded from unsplash
 <h3>Testing</h3>
 Testing information can be found in separate TESTING.md file
 
-####Deployment
+<h4>Deployment</h4>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
-
-To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
-
-Log into GitHub.
-From the list of repositories on the screen, select AJGreaves/portrait-artist.
-From the menu items near the top of the page, select Settings.
-Scroll down to the GitHub Pages section.
-Under Source click the drop-down menu labelled None and select Master Branch
-On selecting Master Branch the page is automatically refreshed, the website is now deployed.
-Scroll back down to the GitHub Pages section to retrieve the link to the deployed website.
-At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
 
 
 <h2>Credits</h2>
