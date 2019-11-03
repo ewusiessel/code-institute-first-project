@@ -1,4 +1,4 @@
-# Miles Stone Wedding Photography Website
+<h1>Miles Stone Wedding Photography Website</h1>
 
 <p>A  website created for a wedding photographer called Miles Stone. The Website features a promotional video, gallery of the photographers work, an about page and a contact page. The primary objective of the website is to showcase the photographers work and convert potential brides to seeing his work and make contact with the photographer. The website also has access to the photographers interviews which gives a preview into his background, what inspires him and his style of work.</p>
 
@@ -10,7 +10,7 @@
 * Build brand awareness.
 * Feature quality examples of the photographers works.
 * Promote sales in the form of first contact (via the contact page) 
-* Minimalist and clean UX to keep potential customers less distracted on the website and easily make contact. 
+* Minimalist and clean UX to keep potential customers less distracted. 
 
 
 <p>The customer goals of this website are:</p> 
@@ -23,21 +23,21 @@ Getting to meet the  photographer who could potentially capture your wedding.
 UX
 </br>
 
-###Ideal client
+<h2>Ideal client</h2>
 
-####The ideal visitor for the website is:
+<h3>The ideal visitor for the website is:</h3>
 
 * English speaking.
 * Engaged couple or bride to be.
 * Is looking for a kind of work that resonates with the photographer's style.
 * Lives anywhere in the world.
 
-####Visitors to this website are searching for:
+<h3>Visitors to this website are searching for:</h3>
 
 * A photographer to capture their big day and get to make contact.
 * Seek inspiration from the works of the photographer. 
 
-####The project is the best way to help them achieve these objectives because:
+</h3>The project is the best way to help them achieve these objectives because:</h3>
 
 * The UX is very clean and information is easily accessible .
 * Get a closer look at the works of the photographer 
@@ -48,7 +48,7 @@ UX
 ** Guiding them to the goal of making contact with the photographer.
 
 
-####Client stories
+</h3>Client stories</h3>
 <ol> 
 <li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
 <li>As a new visitor to the website, I want to view the photographers gallery, and view their work in detail.</li>
@@ -57,7 +57,7 @@ UX
 </ol> 
 
 
-####Wireframe mockups:
+<h3>Wireframe mockups:</h3>
 <ul>
 <li> <a href="#">Index<a/></li>
 <li><a href="#">About<a/></li>
@@ -65,7 +65,8 @@ UX
 <li><a href="#">Contact<a/></li>
 
 
-##Features
+<h2>Features</h2>
+
 <br>
 
 The pages have been designed to feature a responsive navigational bar with placing of logo at the top left, the index page being the exception to the rule with the logo in the center of its page.  The footers of every page has the copyright information and social media icons that will take a visitor to photographers' social media pages.
@@ -114,7 +115,7 @@ Existing Features
 <li>Contact Form - Allows potential clients to ask questions, and/or obtain a qoute.</li>
 </ul>
 
-####Features to Implement in future
+<h3>Features to Implement in future</h3>
 GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business complies with the EU data protection law. - Javascript Needed
 Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
 contact form Send button change from Send to Processing and then when complete changes to Sent. - Javascript Needed
@@ -122,7 +123,7 @@ FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential
 Artists' blog - Allows new potential clients to discover the website through articles written by the artist establishing her as a thought leader. - Artist currently doesn't have time to write a blog.
 Option to choose the language of the website - As the artist's second language is Dutch, this would allow Dutch speaking visitors to the website to view it in their native language. - Budget not available for professional translation at the time.
 
-#####Technologies Used
+<h2>Technologies Used</h2>
 
 This project inculpurates HTML and CSS programming languages.
 Vscode - This developer used Vscode for their IDE while building the website.
@@ -144,7 +145,7 @@ The project used Photoshop to reduce the size of images downloaded from unsplash
 
 
 
-####Testing
+<h3>Testing</h3>
 Testing information can be found in separate TESTING.md file
 
 ####Deployment
@@ -162,29 +163,30 @@ Scroll back down to the GitHub Pages section to retrieve the link to the deploye
 At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
 
 
-#####Credits
-###Content
+<h2>Credits</h2>
+
+<h3>Content</h3>
 <ul>
 <li>The text for the Home page and About page was created for Anna Gilhespy by Catriona Black.</li>
 <li>The text for the rest of the website was created by Anna Gilhespy and proof-read/edited by Catriona Black.</li>
 </ul>
 
-###Media
+<h3>Media</h3>
 <ul>
 <li>All the photos used in this site were obtained www.unsplash.com
 Professional photography on images about1.jpg and about3.jpg on the About page by Rudi Wells Photography and obtained from the artist - Anna Gilhespy.
 The video on this website was produced by....</li></ul>
 
-###Code
+<h3>Code</h3>
 
 CSS code for shadows and hover responsiveness of gallery images was originally taken from Material Design Box Shadows| A Pen By Samuel Thornton and then edited.
 CSS code for overlays on index.html page originally taken from FullScreen YouTube Video Background In Pure CSS
 
-###Acknowledgements
+<h3>Acknowledgements</h3>
 I received inspiration for this project from my own experience of building and maintaining a WordPress website for this business in the past years.
 My mentor Simen Daehlin guided me towards attempting the special responsive header on the Home page.
 
-##Disclaimer
+<h4>Disclaimer</h4>
 The content of this Website is for educational purposes only.
 
 
