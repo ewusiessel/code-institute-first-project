@@ -59,10 +59,10 @@ UX
 
 <h3>Wireframe mockups:</h3>
 <ul>
-<li> <a href="#">Index<a/></li>
-<li><a href="#">About<a/></li>
-<li><a href="#">Gallery<a/></li>
-<li><a href="#">Contact<a/></li>
+<li><a href="/assets/Home Page.png">Index<a/></li>
+<li><a href="/assets/About page.png">About<a/></li>
+<li><a href="/assets/Gallery.png">Gallery<a/></li>
+<li><a href="/assets/Contact page.png">Contact<a/></li>
 
 
 <h2>Features</h2>
@@ -143,30 +143,23 @@ The project used Photoshop to reduce the size of images downloaded from unsplash
 
 
 <h3>Testing</h3>
-Testing information can be found in separate TESTING.md file
+???Testing information can be found in separate TESTING.md file???
 
-<h4>Deployment</h4>
+<h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
 
 
-<h2>Credits</h2>
-
-<h3>Content</h3>
-<ul>
-<li>The text for the Home page and About page was created for Anna Gilhespy by Catriona Black.</li>
-<li>The text for the rest of the website was created by Anna Gilhespy and proof-read/edited by Catriona Black.</li>
-</ul>
-
 <h3>Media</h3>
 <ul>
-<li>All the photos used in this site were obtained www.unsplash.com
-Professional photography on images about1.jpg and about3.jpg on the About page by Rudi Wells Photography and obtained from the artist - Anna Gilhespy.
-The video on this website was produced by....</li></ul>
+<li>All the photos used in this site were obtained from www.unsplash.com
+</li></ul>
 
 <h3>Code</h3>
 
-CSS code for shadows and hover responsiveness of gallery images was originally taken from Material Design Box Shadows| A Pen By Samuel Thornton and then edited.
-CSS code for overlays on index.html page originally taken from FullScreen YouTube Video Background In Pure CSS
+CSS code for shadows and hover responsiveness of gallery images was originally taken from learning tutorials on Youtube. List below:
+https://www.youtube.com/watch?v=ZgWumrrtTQ0 
+https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s 
+https://www.youtube.com/watch?v=zDpCejbl1sU&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=23&t=2s
 
 <h3>Acknowledgements</h3>
 I received inspiration for this project from my own experience of building and maintaining a WordPress website for this business in the past years.
