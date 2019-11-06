@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
-    </script>
+    
 
     <!-- Link to CSS file -->
     <link rel="stylesheet" href="assets/style.css">
@@ -31,7 +31,7 @@
         <!-- 'navbar-expand-md' will expand the toggle to display navigational links in the navbar -->
 
         <!-- Navbar Brand Logo -->
-        <a href="index.html" class="navbar-brand"><img src="assets/img/logo28.2.svg" style="height: 48px;"></a>
+        <a href="index.html" class="navbar-brand"><img src="assets/img/logo28.2.svg" alt="logo" style="height: 48px;"></a>
 
         <!-- Toggler button to replace the navbar when the navbar is collapsed -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-content"
@@ -68,39 +68,37 @@
         </div>
     <div class="row" style="margin-top: 0px">
         <div class="col-md-6">
-            <form>
                 <div class="form-group">
-                    <label for="firstname">First Name*</label>
-                    <input type="text" class="form-control" id="name" placeholder="First Name">
+                    <label id="firstname">First Name*</label>
+                    <input type="text" class="form-control" placeholder="First Name">
                 </div>
                 <div class="form-group">
-                    <label for="lasttname">Last Name*</label>
-                    <input type="text" class="form-control" id="name" placeholder="Last Name">
+                    <label id="lasttname">Last Name*</label>
+                    <input type="text" class="form-control" placeholder="Last Name">
                 </div>
                 <div class="form-group">
-                    <label for="email">Email address*</label>
-                    <input type="text" class="form-control" id="email" placeholder="Enter Email">
-                    </input>
+                    <label id="email">Email address*</label>
+                    <input type="text" class="form-control" placeholder="Enter Email">
+                </div>
                     <div class="form-group">
-                        <label for="message">Message</label>
-                        <textarea type="text" class="form-control" id="message" rows="10">
-                        </textarea>
+                        <label id="message">Message</label>
+                        <input type="text" class="form-control">
                     </div>
-            </form>
+                </div>
         </div>
         <!-- Submit Button -->
         <div class="col mx-auto text-center">
             <button type="submit" class="btn btn-dark">Submit</button>
         </div>
     </div>
-    </div>
-    </div>
+    
+    
     <!-- End of form -->
 
 
     <!-- Begining of Footer with social-media icons -->
     <footer class="container text-center">
-        <div id="row social-icons">
+        <div id="social-icons">
             <ul class="list-inline-icons">
                 <li class="list-icons">
                     <a href="#" target="_blank">
