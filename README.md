@@ -137,7 +137,7 @@ The project used Photoshop to reduce the size of images downloaded from unsplash
 
 
 <h3>Testing</h3>
-Testing information is found at <a href="TESTING.md"></a>
+Testing information is found at <a href="TESTING.md">TESTING.md</a>
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
