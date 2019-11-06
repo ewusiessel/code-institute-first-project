@@ -59,10 +59,10 @@ Getting to meet the  photographer who could potentially capture your wedding.
 
 <h3>Wireframe mockups:</h3>
 <ul>
-<li><a href="/assets/Home Page.png">Index<a/></li>
-<li><a href="/assets/About page.png">About<a/></li>
-<li><a href="/assets/Gallery.png">Gallery<a/></li>
-<li><a href="/assets/Contact page.png">Contact<a/></li>
+<li><a href="/assets/Home Page.png">Index</a></li>
+<li><a href="/assets/About page.png">About</a></li>
+<li><a href="/assets/Gallery.png">Gallery</a></li>
+<li><a href="/assets/Contact page.png">Contact</a></li>
 
 
 <h1>Features</h1>
@@ -114,12 +114,7 @@ The bottom of the form contains a Send Button
 </ul>
 
 <h3>Features to Implement in future</h3>
-GDPR compliant pop-up screen - Allows all new visitors to the website to approve or deny the processing of their personal data. Ensures the business complies with the EU data protection law. - Javascript Needed
-Add CAPTCHA to contact form - Allows business to protect the contact form from spam. - Javascript Needed
-contact form Send button change from Send to Processing and then when complete changes to Sent. - Javascript Needed
-FAQ page, table with FAQs and dropdown buttons to view answers - Gives potential clients easy to find answers to their common questions. - Javascript Needed for dropdown functionality. Simple FAQ page could be implemented now.
-Artists' blog - Allows new potential clients to discover the website through articles written by the artist establishing her as a thought leader. - Artist currently doesn't have time to write a blog.
-Option to choose the language of the website - As the artist's second language is Dutch, this would allow Dutch speaking visitors to the website to view it in their native language. - Budget not available for professional translation at the time.
+Future implementations will include making the form functional as it is currently static, this will involve the back-end development of the website. Also the author wishes to add an interactive pricing  
 
 <h2>Technologies Used</h2>
 
@@ -136,14 +131,13 @@ Vscode - This developer used Vscode for their IDE while building the website.
     Promotional video was edited with iMovie
 <a href="https://jquery.com/"></a>jQuery
     The project uses jQuery to reference Javascript.
-
 <a href="https://www.adobe.com/uk/products/photoshopfamily.html">Photoshop cs</a>
 The project used Photoshop to reduce the size of images downloaded from unsplash.com
 
 
 
 <h3>Testing</h3>
-???Testing information can be found in separate TESTING.md file???
+Testing information is found at <a href="TESTING.md"></a>
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
@@ -156,16 +150,38 @@ https://ewusiessel.github.io/code-institute-first-project/
 </li></ul>
 
 <h3>Code</h3>
-
-CSS code for shadows and hover responsiveness of gallery images was originally taken from learning tutorials on Youtube. List below:
+Gallery grid codes including CSS and HTML was taken from W3 CSS code for shadows and hover responsiveness of gallery images was originally taken <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"></a> and other tutorials obtained from learning on Youtube. List below:
 <ul>
 <li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
 <li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
 <li>https://www.youtube.com/watch?v=zDpCejbl1sU&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=23&t=2s</li>
 
+
+<h3>Credit</h3>
+Credits go to the photographers and artsits/photo studios who have uploaded their images on www.unsplash.com and had the pleasure of downloading for this project:
+<ul>
+<li>Alvin Mahmudov</li>
+<li>Andreas Ronningen</li>
+<li>Chuttersnap</li>
+<li>Desiree Fawn</li>
+<li>Ifeoluwadayo Ogunderu</li>
+<li>Jenna Norman</li>
+<li>Marc a Sporys</li>
+<li>Marcus Lewis</li>
+<li>Marius Muresan</li>
+<li>Mei Bakker</li>
+<li>Nicole Honeywill</li>
+<li>Pablo Heimplatz</li>
+<li>Petr Ovralov</li>
+<li>Samantha Gades</li>
+<li>Shelbey Miller</li>
+<li>Sweet Icecream Photography</li>
+<li>Thomas Ae</li>
+</ul>
+
 <h3>Acknowledgements</h3>
-I received inspiration for this project from my own experience of building and maintaining a
-My guided me towards attempting the special responsive header on the Home page.
+Inspiration for this project was derived from a long stasnding ambition to create a wedding photograpers wedsite as a photographer myself who would want to build and maintain my website in the future. Would also like to thank my mentor Anthony Ngene for his support and invaluable help throughout the period it took me to complete this project.
+
 
 <h4>Disclaimer</h4>
 The content of this Website is for educational purposes only.
