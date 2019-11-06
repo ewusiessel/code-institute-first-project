@@ -145,12 +145,11 @@ the deployed outcome can be found here:
 https://ewusiessel.github.io/code-institute-first-project/
 
 <h3>Media</h3>
-<ul>
-<li>All the photos used in this site were obtained from www.unsplash.com
-</li></ul>
+All the photos used in this site were obtained from www.unsplash.com
+
 
 <h3>Code</h3>
-Gallery grid codes including CSS and HTML was taken from W3 CSS code for shadows and hover responsiveness of gallery images was originally taken <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp"></a> and other tutorials obtained from learning on Youtube. List below:
+Gallery grid codes including CSS and HTML was taken from W3 CSS code for shadows and hover responsiveness of gallery images was originally taken from<a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">How to create Image Grid</a> and other tutorials obtained from learning on Youtube listed below:
 <ul>
 <li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
 <li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
