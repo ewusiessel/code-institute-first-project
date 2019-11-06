@@ -107,7 +107,6 @@ p {
     text-transform: uppercase;
     padding: 10px 45px;
     cursor: pointer;
-    transition-delay: 0.5s linear;
     border-radius: 0;
 }
 
