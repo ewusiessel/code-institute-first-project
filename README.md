@@ -147,7 +147,8 @@ The project used Photoshop to reduce the size of images downloaded from unsplash
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
-
+the deployed outcome can be found here:
+https://ewusiessel.github.io/code-institute-first-project/
 
 <h3>Media</h3>
 <ul>
@@ -163,8 +164,8 @@ CSS code for shadows and hover responsiveness of gallery images was originally t
 <li>https://www.youtube.com/watch?v=zDpCejbl1sU&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=23&t=2s</li>
 
 <h3>Acknowledgements</h3>
-I received inspiration for this project from my own experience of building and maintaining a WordPress website for this business in the past years.
-My mentor Simen Daehlin guided me towards attempting the special responsive header on the Home page.
+I received inspiration for this project from my own experience of building and maintaining a
+My guided me towards attempting the special responsive header on the Home page.
 
 <h4>Disclaimer</h4>
 The content of this Website is for educational purposes only.
