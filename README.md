@@ -23,6 +23,14 @@ Getting to meet the  photographer who could potentially capture your wedding.
 <h2>UX</h2>
 </br>
 
+</h2>Client stories</h2>
+<ol> 
+<li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
+<li>As a new visitor to the website, I want to view the photographers gallery, and view their work in detail.</li>
+<li>As a new visitor to the website, I want learn more about the photograper, so I can feel I connect with her as a person.</li>
+<li>As a visitor to the website, I want to be able to follow the photographer on social media, so I am kept informed about his projects.</li>
+</ol> 
+
 <h2>Ideal client</h2>
 
 <h3>The ideal visitor for the website is:</h3>
@@ -46,16 +54,6 @@ Getting to meet the  photographer who could potentially capture your wedding.
 ** Delivers to the client the information they need in their respective pages.
 ** Is easy to navigate.
 ** Guiding them to the goal of making contact with the photographer.
-
-
-</h3>Client stories</h3>
-<ol> 
-<li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
-<li>As a new visitor to the website, I want to view the photographers gallery, and view their work in detail.</li>
-<li>As a new visitor to the website, I want learn more about the photograper, so I can feel I connect with her as a person.</li>
-<li>As a visitor to the website, I want to be able to follow the photographer on social media, so I am kept informed about his projects.</li>
-</ol> 
-
 
 <h3>Wireframe mockups:</h3>
 <ul>
@@ -139,7 +137,16 @@ The project used Photoshop to reduce the size of images downloaded.
 <h3>Testing</h3>
 HTML markups was tested using <a href="https://validator.w3.org/">Markup Validation Service</a>
 CSS was tested using <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">The W3C CSS Validation Service</a> 
-to check the validity of the websites written code.
+to check the validity of the websites written code. To ensure that the website works properly across different platforms and viewports, Google development tools was used during development of the website. Cross browser testing was done using a free trial servcie from an external website: https://www.browserstack.com/  
+
+Testing ensured that the Navbar and Footer is identical on all browsers and codes are identical on all html pages. 
+Hover over each gallery thumbnail and the hover animation works as expected.
+Each code confirmed that each gallery thumbnail has a descriptive alt attribute. 
+Clicking on each gallery thumbnail confirms that the Fancybox gallery modal opens up.
+The gallery modal window click next, backwards and close functions work as expected.
+Reduce and expand width of window to verify that each row of gallery images behave and centre the way expected, and that the grid of images looks good on all device widths, and the video background fills all devicw width and behaves as expected.
+Confirm that the two buttons move to stacked on top of each other for mobile devices and display next to each other for larger screens.
+
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
