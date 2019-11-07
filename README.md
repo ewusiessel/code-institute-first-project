@@ -149,15 +149,18 @@ All the photos used in this site were obtained from www.unsplash.com
 ***************
 
 <h3>Code</h3>
-Gallery grid codes including CSS and HTML was taken from<a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> CSS and other tutorials obtained from learning on Youtube listed below:
+Gallery grid codes including CSS and HTML was taken from <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> others obtained from learning on Youtube tutorials listed below:
 <ul>
 <li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
 <li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
 <li>https://www.youtube.com/watch?v=zDpCejbl1sU&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=23&t=2s</li>
+<li>https://www.youtube.com/watch?v=WRSQOnLiA6Y</li>
+<li>https://www.youtube.com/watch?v=W2y33Q2lf3k</li>
+</ul>
 
 
 <h3>Credit</h3>
-Credits go to the photographers and artsits/photo studios who have uploaded their images on www.unsplash.com and had the pleasure of downloading for this project:
+Credits go to the photographers and artsits/photo studios who have uploaded their images on www.unsplash.com and were downloaded for purposes of this project:
 
 <ul>
 <li>Alvin Mahmudov</li>
