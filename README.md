@@ -28,8 +28,8 @@ Getting to meet the  photographer who could potentially capture your wedding.
 <h3>The ideal visitor for the website is:</h3>
 
 * English speaking.
-* Engaged couple or bride to be.
-* Is looking for a kind of work that resonates with the photographer's style.
+* Engaged couple or bride-to-be.
+* Is looking for a kind of product that resonates with the photographer's style.
 * Lives anywhere in the world.
 
 <h3>Visitors to this website are searching for:</h3>
@@ -42,7 +42,7 @@ Getting to meet the  photographer who could potentially capture your wedding.
 * The UX is very clean and information is easily accessible .
 * Get a closer look at the works of the photographer 
 *  This website:
-** Leads the client through understanding the style and working philosphy behind the works of the photographer.
+** Leads the client through understanding the style and working philosophy behind the works of the photographer.
 ** Delivers to the client the information they need in their respective pages.
 ** Is easy to navigate.
 ** Guiding them to the goal of making contact with the photographer.
@@ -53,7 +53,7 @@ Getting to meet the  photographer who could potentially capture your wedding.
 <li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
 <li>As a new visitor to the website, I want to view the photographers gallery, and view their work in detail.</li>
 <li>As a new visitor to the website, I want learn more about the photograper, so I can feel I connect with her as a person.</li>
-<li>As a visitor to the website, I want to be able to follow the photographer on social media, so I am kept informed about his projects and travels.</li>
+<li>As a visitor to the website, I want to be able to follow the photographer on social media, so I am kept informed about his projects.</li>
 </ol> 
 
 
@@ -71,10 +71,10 @@ Getting to meet the  photographer who could potentially capture your wedding.
 
 The pages have been designed to feature a responsive navigational bar with placing of logo at the top left, the index page being the exception to the rule with the logo in the center of its page.  The footers of every page has the copyright information and social media icons that will take a visitor to photographers' social media pages.
 
-The index page features a looped snippets of video footage presumably taken by the photographer and its purpose is to grab attention and give a emotional response to the viewer.
+The index page features muted looped snippets of black and white video footage presumably taken by the photographer and its purpose is to grab attention and give an emotional response to the viewer.
 
 <h4>Index</h4>
-The Index/Home page as mentioned earlier features a special video in black and white that autoplays and loops on mute. This is also the case with all viewports and devices as it aims to maintain that emotional response regardless of where it is viewed. 
+The Index/Home page as mentioned earlier features a special video that autoplays and loops on mute. This is also the case with all viewports and devices as it aims to maintain that emotional response regardless of where it is viewed. 
 
 There is a simple <b>Next</b> button that ushers the viewer into the <b>Gallery</b> section of the website. 
 
@@ -84,9 +84,9 @@ The Home/Index page promotional video was put together by the writer sourced fro
 <h4>Gallery</h4>
 The Gallery page has been laid out in columns of thumbnail images, 1 column wide for mobile devices, 4 columns wide for tablets and 5 columns wide for desktop. Each thumbnail features a photograph by the photographer.
 
-These photographs have been downloaded from www.unsplash.com (all copyrights reserved) credit to the different owners whose names are listed on each corresponding image file. Due to their high resolution the images been reduced to make them download quickly over the internet.
+These photographs have been downloaded from www.unsplash.com (all copyrights reserved) credit to the different owners whose names are listed on each corresponding image file and on the credits section of this documentation. Due to their high resolution the images had to be  reduced to make them download quickly over the internet.
 
-Viewing the images in full is much preferred option as it gives a better user experience. Every thumbnail image can be clicked to open a fancybox window to view the artwork in more detail, to perform other tasks such as move to the next image,view the previous, or return to the gallery page.
+Viewing the images in full is much preferred option as it gives a better user experience. Every thumbnail image can be clicked to open a Fancybox window to view the artwork in more detail and to perform other tasks such as move to the next image,view the previous, or return to the gallery page.
 
 
 <h4>About</h4>
@@ -106,15 +106,15 @@ The bottom of the form contains a Send Button
 <li>Header Navigation Bar - Exists on every page and allows all users to easily navigate the website's pages and find what they are looking for easily and quickly.</li>
 <li>Footer Copyright Info - Exists on every page and protects business copyright.</li>
 <li>Footer Social Icons - Exist on every page and allows all users to access the social platforms that the artist currently uses.</li>
-<li>Promotional Video - Allows potential clients to connect with the artist, see her working in the studio and view some of her work. Creates connection and emotional response.</li>
+<li>Promotional Video - Allows potential clients to connect with the artist. Creates connection and emotional response.</li>
 <li>About Page - Allows potential clients to connect with the artist with a brief summary of his life and works</li>
-<li>Gallery Page - Allows potential clinets to the website to view thumbnail images of the photographer's work. Thumbnails can be clicked to open an individual fancybox viewer.</li>
+<li>Gallery Page - Allows potential clinets to the website to view thumbnail images of the photographer's work. Thumbnails can be clicked to open an individual Fancybox viewer.</li>
 <li>Fancybox Viewer - Allows visitors on the Gallery page to view the artist's work in more detail, to move to the next image, previous image or return to the gallery.</li>
 <li>Contact Form - Allows potential clients to ask questions, and/or obtain a qoute.</li>
 </ul>
 
 <h3>Features to Implement in future</h3>
-Future implementations will include making the form functional as it is currently static, this will involve the back-end development of the website. Also the author wishes to add an interactive pricing  
+Future implementations will include making the contact form functional as it is currently static, this will involve the back-end development of the website. Also the author wishes to add an interactive pricing or quoting system in future. This will further enhance the user experience by granting potential customers instant quote without contacting the photographer directly.
 
 <h2>Technologies Used</h2>
 
@@ -131,8 +131,8 @@ Vscode - This developer used Vscode for their IDE while building the website.
     Promotional video was edited with iMovie
 <a href="https://jquery.com/"></a>jQuery
     The project uses jQuery to reference Javascript.
-<a href="https://www.adobe.com/uk/products/photoshopfamily.html">Photoshop cs</a>
-The project used Photoshop to reduce the size of images downloaded from unsplash.com
+<a href="https://www.adobe.com/uk/products/photoshopfamily.html">Photoshop CS</a>
+The project used Photoshop to reduce the size of images downloaded.
 
 
 
@@ -146,10 +146,10 @@ https://ewusiessel.github.io/code-institute-first-project/
 
 <h3>Media</h3>
 All the photos used in this site were obtained from www.unsplash.com
-
+***************
 
 <h3>Code</h3>
-Gallery grid codes including CSS and HTML was taken from W3 CSS code for shadows and hover responsiveness of gallery images was originally taken from <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">How to create Image Grid</a> and other tutorials obtained from learning on Youtube listed below:
+Gallery grid codes including CSS and HTML was taken from<a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> CSS and other tutorials obtained from learning on Youtube listed below:
 <ul>
 <li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
 <li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
@@ -158,6 +158,7 @@ Gallery grid codes including CSS and HTML was taken from W3 CSS code for shadows
 
 <h3>Credit</h3>
 Credits go to the photographers and artsits/photo studios who have uploaded their images on www.unsplash.com and had the pleasure of downloading for this project:
+
 <ul>
 <li>Alvin Mahmudov</li>
 <li>Andreas Ronningen</li>
@@ -179,7 +180,7 @@ Credits go to the photographers and artsits/photo studios who have uploaded thei
 </ul>
 
 <h3>Acknowledgements</h3>
-Inspiration for this project was derived from a long stasnding ambition to create a wedding photograpers wedsite as a photographer myself who would want to build and maintain my website in the future. Would also like to thank my mentor Anthony Ngene for his support and invaluable help throughout the period it took me to complete this project.
+Inspiration for this project was derived from a long standing ambition to create a wedding photograpers wedsite, as a photographer myself who would want to build and maintain my website in the future. Would like to thank my mentor Anthony Ngene for his support and invaluable help throughout the period it took me to complete this project.
 
 
 <h4>Disclaimer</h4>
