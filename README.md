@@ -21,7 +21,7 @@
 
 
 <h2>UX</h2>
-</br>
+
 <h2>Client stories</h2>
 <ol> 
 <li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
@@ -44,7 +44,7 @@
 * A photographer to capture their big day and get to make contact.
 * Seek inspiration from the works of the photographer. 
 
-</h3>The project is the best way to help them achieve these objectives because:</h3>
+<h3>The project is the best way to help them achieve these objectives because:</h3>
 
 * The UX is very clean and information is easily accessible .
 * Get a detailed look at the works of the photographer. 
@@ -55,10 +55,10 @@
 
 <h3>Wireframe mockups:</h3>
 <ul>
-<li><a href="/assets/Home Page.png">Index</a></li>
-<li><a href="/assets/About page.png">About</a></li>
-<li><a href="/assets/Gallery.png">Gallery</a></li>
-<li><a href="/assets/Contact page.png">Contact</a></li>
+<li><a href="assets/Home Page.png">Index</a></li>
+<li><a href="assets/About page.png">About</a></li>
+<li><a href="assets/Gallery.png">Gallery</a></li>
+<li><a href="assets/Contact page.png">Contact</a></li>
 </ul>
 
 <h2>Features</h2>
