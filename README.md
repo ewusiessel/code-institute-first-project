@@ -61,7 +61,7 @@
 <li><a href="/assets/Contact page.png">Contact</a></li>
 
 
-<h1>Features</h1>
+<h2>Features</h2>
 
 <br>
 
