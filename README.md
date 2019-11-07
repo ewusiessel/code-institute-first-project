@@ -9,7 +9,7 @@
 
 * Build brand awareness.
 * Feature quality examples of the photographers works.
-* Promote sales in the form of first contact (via the contact page) 
+* Promote sales in the form of first contact via the contact page. 
 * Minimalist and clean UX to keep potential customers less distracted. 
 
 
@@ -135,9 +135,9 @@ The project used Photoshop to reduce the size of images downloaded.
 <h3>Testing</h3>
 HTML markups was tested using <a href="https://validator.w3.org/">Markup Validation Service</a>
 CSS was tested using <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">The W3C CSS Validation Service</a> 
-to check the validity of the websites written code. To ensure that the website works properly across different platforms and viewports, Google development tools was used during development of the website. Cross browser testing was done using a free trial servcie from an external website: https://www.browserstack.com/  
+to check the validity of the websites written code. To ensure that the website works properly across different platforms and viewports, Google development tools was used during development of the website. Cross browser testing was done using a free trial servcie from an external website: https://www.browserstack.com/<br>  
 
-<br>
+
 <p>Testing/Validation Results:</p>
 <ul>
 <li>Testing ensured that common codes for Navbar and Footer is identical on all browsers.</li>
