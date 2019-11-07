@@ -59,9 +59,7 @@
 <li><a href="/assets/About page.png">About</a></li>
 <li><a href="/assets/Gallery.png">Gallery</a></li>
 <li><a href="/assets/Contact page.png">Contact</a></li>
-
-
-
+</ul>
 
 <h2>Features</h2>
 
