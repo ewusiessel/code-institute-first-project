@@ -159,7 +159,7 @@ All the photos used in this site were obtained from www.unsplash.com
 
 
 <h3>Code</h3>
-Gallery grid codes including CSS and HTML was taken from <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> others were obtained from learning from Youtube tutorials listed below:
+Gallery grid codes including CSS and HTML was taken from <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> others were obtained by learning from Youtube tutorials listed below:
 <ul>
 <li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
 <li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
