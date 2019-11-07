@@ -15,12 +15,12 @@
 
 <p>The customer goals of this website are:</p> 
 
-Getting to appreciate the work of the photographer.
-Easily making contact with the photographer and striking a conversation.
-Getting to meet the  photographer who could potentially capture your wedding.
+* Getting to appreciate the work of the photographer.
+* Easily making contact with the photographer and striking a conversation.
+* Getting to meet the  photographer who could potentially capture your wedding.
 
 
-<h2>UX</h2>
+<h1>UX</h1>
 </br>
 
 <h2>Client stories</h2>
@@ -112,12 +112,12 @@ The bottom of the form contains a Send Button
 </ul>
 
 <h3>Features to Implement in future</h3>
-Future implementations will include making the contact form functional as it is currently static, this will involve the back-end development of the website. Also the author wishes to add an interactive pricing or quoting system in future. This will further enhance the user experience by granting potential customers instant quote without contacting the photographer directly.
+Future implementations will include making the contact form functional as it is currently static, this will involve the back-end development of the website. Also the developer wishes to add an interactive pricing or quoting system in future. This will further enhance the user experience by granting potential customers instant quote without contacting the photographer directly. Lastly that the social media icons will link to the photographers social media pages. 
 
 <h2>Technologies Used</h2>
 
 This project inculpurates HTML and CSS programming languages.
-Vscode - This developer used Vscode for their IDE while building the website.
+Vscode - This developer used <a href="https://code.visualstudio.com/">Vscode</a> for their IDE while building the website.
 <a href="https://www.bootstrapcdn.com/">BootstrapCDN</a>
     The project uses Bootstrap4 to simplify the structure of the website and make the website responsive easily.
     The project also uses BootstrapCDN to provide icons from FontAwesome.
@@ -139,14 +139,16 @@ HTML markups was tested using <a href="https://validator.w3.org/">Markup Validat
 CSS was tested using <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">The W3C CSS Validation Service</a> 
 to check the validity of the websites written code. To ensure that the website works properly across different platforms and viewports, Google development tools was used during development of the website. Cross browser testing was done using a free trial servcie from an external website: https://www.browserstack.com/  
 
-Testing ensured that the Navbar and Footer is identical on all browsers and codes are identical on all html pages. 
-Hover over each gallery thumbnail and the hover animation works as expected.
-Each code confirmed that each gallery thumbnail has a descriptive alt attribute. 
-Clicking on each gallery thumbnail confirms that the Fancybox gallery modal opens up.
-The gallery modal window click next, backwards and close functions work as expected.
-Reduce and expand width of window to verify that each row of gallery images behave and centre the way expected, and that the grid of images looks good on all device widths, and the video background fills all devicw width and behaves as expected.
-Confirm that the two buttons move to stacked on top of each other for mobile devices and display next to each other for larger screens.
-
+Testing/Validation Results:
+<ol>
+<li>Testing ensured that common codes for Navbar and Footer is identical on all browsers.</li>
+<li>Hovering effect over each gallery thumbnail and the hover animation works as expected.</li>
+<li>That each code confirmed that every gallery thumbnail has a descriptive alt attribute.</li> 
+<li>Clicking on each gallery thumbnail confirms that the Fancybox gallery modal opens up and reveals a detail image.</li>
+<li>The gallery modal window next, backwards and close functions work as expected.</li>
+<li>Widths are responsive that each row of gallery images behave and centre the way expected, and that the grid of images.</li> <li>looks as they should on all devices, and the video background fills all device widths and behaves as expected.</li>
+<li>That a the navigational bar toggles on small screen widths and the links works as expected.</li> 
+</ol>
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
