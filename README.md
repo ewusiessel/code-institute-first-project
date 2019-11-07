@@ -154,6 +154,18 @@ This project was developed using Vscode IDE, committed to git and pushed to GitH
 the deployed outcome can be found here:
 https://ewusiessel.github.io/code-institute-first-project/
 
+
+The following steps were taken to deploy the website to GitHub Pages from its GitHub repository:
+
+1. Log into www.gitHub.com
+2. Select ewusiessel/code-institute-first-project from the list of repositories, 
+3. Select Settings from the menu items near the top-right of the page. 
+4. Scroll down to GitHub Pages section of the settings page.
+5. Click the drop-down menu labelled None and select Master Branch under Source
+6. The the page is automatically refreshed and the website is now deployed.
+7. Scroll down to the GitHub Pages section where you can retrieve the link to the deployed website.
+
+
 <h3>Media</h3>
 All the photos used in this site were obtained from www.unsplash.com
 
