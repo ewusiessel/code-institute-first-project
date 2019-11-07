@@ -137,7 +137,9 @@ The project used Photoshop to reduce the size of images downloaded.
 
 
 <h3>Testing</h3>
-Testing information is found at <a href="TESTING.md">TESTING.md</a>
+HTML markups was tested using <a href="https://validator.w3.org/">Markup Validation Service</a>
+CSS was tested using <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">The W3C CSS Validation Service</a> 
+to check the validity of the websites written code.
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
@@ -146,10 +148,10 @@ https://ewusiessel.github.io/code-institute-first-project/
 
 <h3>Media</h3>
 All the photos used in this site were obtained from www.unsplash.com
-***************
+
 
 <h3>Code</h3>
-Gallery grid codes including CSS and HTML was taken from <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> others obtained from learning on Youtube tutorials listed below:
+Gallery grid codes including CSS and HTML was taken from <a href="https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp">W3Schools.com</a> others were obtained from learning from Youtube tutorials listed below:
 <ul>
 <li>https://www.youtube.com/watch?v=ZgWumrrtTQ0</li>
 <li>https://www.youtube.com/watch?v=-oIZ8yPR0ao&list=PLiyqS96MJJY_AFMvN-X_e8b5a9wYoD1Dh&index=20&t=3s</li> 
