@@ -151,7 +151,7 @@ to check the validity of the websites written code. To ensure that the website w
 
 <h3>Deployment</h3>
 This project was developed using Vscode IDE, committed to git and pushed to GitHub using the built in function within it.
-the deployed outcome can be found here:
+The deployed outcome can be found here:
 https://ewusiessel.github.io/code-institute-first-project/
 
 The following steps were taken to deploy the website to GitHub Pages from its GitHub repository:
