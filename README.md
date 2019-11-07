@@ -23,7 +23,7 @@ Getting to meet the  photographer who could potentially capture your wedding.
 <h2>UX</h2>
 </br>
 
-</h2>Client stories</h2>
+<h2>Client stories</h2>
 <ol> 
 <li> As a new visitor to the website, I want to easily navigate the site, so I can find what I need quickly.</li>
 <li>As a new visitor to the website, I want to view the photographers gallery, and view their work in detail.</li>
