@@ -154,7 +154,6 @@ This project was developed using Vscode IDE, committed to git and pushed to GitH
 the deployed outcome can be found here:
 https://ewusiessel.github.io/code-institute-first-project/
 
-</br>
 The following steps were taken to deploy the website to GitHub Pages from its GitHub repository:
 
 1. Log into www.gitHub.com
