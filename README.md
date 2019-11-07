@@ -139,11 +139,11 @@ HTML markups was tested using <a href="https://validator.w3.org/">Markup Validat
 CSS was tested using <a href="https://jigsaw.w3.org/css-validator/#validate_by_input">The W3C CSS Validation Service</a> 
 to check the validity of the websites written code. To ensure that the website works properly across different platforms and viewports, Google development tools was used during development of the website. Cross browser testing was done using a free trial servcie from an external website: https://www.browserstack.com/  
 
-Testing/Validation Results:
+<p>Testing/Validation Results:</p>
 <ul>
 <li>Testing ensured that common codes for Navbar and Footer is identical on all browsers.</li>
 <li>Hovering effect over each gallery thumbnail and the hover animation works as expected.</li>
-<li>That each code confirmed that every gallery thumbnail has a descriptive alt attribute.</li> 
+<li>Confirmed that every code gallery thumbnail has a descriptive alt attribute.</li> 
 <li>Clicking on each gallery thumbnail confirms that the Fancybox gallery modal opens up and reveals a detail image.</li>
 <li>The gallery modal window next, backwards and close functions work as expected.</li>
 <li>Widths are responsive and each row of gallery images behave and centre as expected.</li> 
