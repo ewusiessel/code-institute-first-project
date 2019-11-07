@@ -47,12 +47,11 @@
 </h3>The project is the best way to help them achieve these objectives because:</h3>
 
 * The UX is very clean and information is easily accessible .
-* Get a closer look at the works of the photographer 
-*  This website:
-** Leads the client through understanding the style and working philosophy behind the works of the photographer.
-** Delivers to the client the information they need in their respective pages.
-** Is easy to navigate.
-** Guiding them to the goal of making contact with the photographer.
+* Get a detailed look at the works of the photographer. 
+* The website leads the client through understanding the style and working philosophy behind the works of the photographer.
+* Delivers to the client the information they need in their respective pages.
+* Is easy to navigate.
+* Guiding them to the goal of making contact with the photographer.
 
 <h3>Wireframe mockups:</h3>
 <ul>
